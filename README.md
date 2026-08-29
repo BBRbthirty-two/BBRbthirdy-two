@@ -1,5 +1,5 @@
 # Bruno Barbosa
-### Full-Stack Developer
+### Junior Developer
 ###### Junior Developer – Full-Stack Applications and Electronic Systems
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
